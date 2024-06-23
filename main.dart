@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
           fontFamily:
               'Poppins'), // Sets the default font family for the app's theme
       home:
-          const HomePage(), // Sets the HomePage widget as the home screen of the app
+          HomePage(), // Sets the HomePage widget as the home screen of the app
     );
   }
 }
